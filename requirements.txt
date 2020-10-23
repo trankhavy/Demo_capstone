@@ -1,0 +1,12 @@
+scipy==1.2.1
+pandas==0.24.2
+tensorflow==1.13.1
+keras==2.2.4
+scikit-learn==0.20.3
+#mrcnn==0.2
+scikit-image==0.15.0
+#imgaug==0.2.8
+ipython==7.5.0
+flask-cors==3.0.7
+gunicorn==19.9.0
+jupyterlab==2.2.8
